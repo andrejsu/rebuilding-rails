@@ -3,12 +3,14 @@ PATH
   specs:
     rulers (0.0.4)
       erubis
+      multi_json
       rack (~> 2.2)
 
 GEM
   remote: https://rubygems.org/
   specs:
     erubis (2.7.0)
+    multi_json (1.15.0)
     rack (2.2.6.4)
 
 PLATFORMS
